@@ -1,0 +1,102 @@
+{
+    "Welcome to React": "Welcome to React and react-i18next",
+    "title": "We're all Values",
+    "home": "Home",
+    "lang": "AR",
+    "about us": "About us",
+    "work": "Our work",
+    "contact": "Contact us",
+    "org": "We're All Values charitable organization",
+    "about us title": "who are we?",
+    "who are we": "<span> We Are All Values </span> is a non-profit charitable organization officially registered with the Humanitarian Aid Commission. We aim to promote positive values in society by providing humanitarian assistance to those in need with transparency and responsibility. We work to build a more sustainable and peaceful community through comprehensive programs that serve individuals and meet their needs",
+    "our vision title": "Our Vision",
+    "our vision body": "To be a leading model in promoting and spreading humanitarian values within society by providing services and assistance that improve people's lives and empower them.",
+    "our mision title": "Our Mission",
+    "our mision body": "We are committed to serving the community by promoting positive values and offering comprehensive humanitarian support to the needy. We focus on transparency and efficiency in delivering aid, building a peaceful and developing society.",
+    "our goals title":"Our Goals",
+    "our goals body":"At <span> We Are All Values </span>, we strive to achieve the following objectives:",
+    "goal 1": "<b> Supporting Sustainable Development:</b> Contributing to achieving the UN Sustainable Development Goals through initiatives that promote education, health, and equality. ",
+    "goal 2": "<b>Spreading a Culture of Peace:</b> Promoting tolerance, rejecting violence, and building a safe and stable society.",
+    "goal 3": "<b>Youth Empowerment:</b> Providing training programs and job opportunities to equip youth and support their participation in society.",
+    "goal 4": "<b>Supporting Civil Society:</b> Offering support to civil society organizations and facilitating the implementation of their developmental programs.",
+    "goal 5": "<b>Reviving Cultural Roles:</b> Organizing events that promote culture and community heritage.",
+    "goal 6": "<b>Fighting Harmful Traditions:</b> Raising awareness of the negative effects of harmful social practices and promoting positive alternatives.",
+    "goal 7": "<b>Addressing Social Issues:</b> Providing effective solutions to social problems based on scientific studies.",
+    "goal 8": "<b>Raising Health Awareness:</b> Promoting health awareness and preventive measures, especially in maternal and child health.",
+    "goal 9": "<b>Environmental Protection:</b> Spreading the culture of environmental protection and promoting public health.",
+    "goal 10": "<b>Encouraging Volunteer Work:</b> Training youth to participate effectively in times of crises and natural disasters.",
+    "goal 11": "<b>Family Support:</b> Providing necessary support to families, considering them the foundation of a strong and healthy society.",
+    "org structure title": "Organizational Structure",
+    "org structure body": "We Are All Values consists of several specialized departments, each playing a vital role in achieving the organization’s goals:",
+    
+    "office 1 title": "External Relations Office",
+    "office 1 body": "Focuses on building partnerships with other organizations and fostering external communication",
+
+    "office 2 title": "Social Office",
+    "office 2 body": "Enhances social interaction among organization members and the community, while improving the organization’s image",
+
+    "office 3 title": "Development and Human Resources Office",
+    "office 3 body": "Focuses on developing programs and initiatives to improve lives and provide volunteer training",
+
+    "office 4 title": "Women and Children's Office",
+    "office 4 body": "Offers support and care for women's and children's issues",
+
+    "office 5 title": "Medical Office",
+    "office 5 body": "Provides medical services and organizes health awareness campaigns",
+
+    "office 6 title": "Media Office",
+    "office 6 body": "Responsible for publishing news about the organization and documenting its activities",
+
+    "office 7 title": "Members' Office",
+    "office 7 body": "Manages members’ affairs and encourages their participation in the organization's events",
+
+    "office 8 title": "Project Management and Development Office",
+    "office 8 body": "Oversees the planning and execution of the organization's projects and future strategies",
+
+    "activities title": "Our Activities",
+    "activities body": "At <b>We Are All Values</b>, we are dedicated to implementing a variety of initiatives and projects that support our humanitarian mission and contribute to improving the lives of those in need. We strive to provide essential services that enhance quality of life in our community.",
+    "initiatives title": "Our Current Initiatives",
+
+    "initiat 1 title": "Jwana Amal",
+    "initiat 1 body": "This initiative provides rest houses for children with cancer from various Sudanese states. We offer healthcare services, psychological support, recreational activities, and accommodation for the children and their caregivers during treatment.",
+
+    "initiat 2 title": "We are All Values Charity Kitchen",
+    "initiat 2 body": "One of our key initiatives, where all branches of the organization regularly prepare and distribute meals to refugees and war-affected individuals. This project aims to alleviate suffering during crises and provide essential nutritional support in critical times.",
+
+    "initiat 3 title": "Orphan Sponsorship",
+    "initiat 3 body": "Focuses on supporting orphans by providing financial and moral assistance to ensure their basic needs, including education and healthcare, are met",
+
+    "initiat 4 title": "Support for the Needy",
+    "initiat 4 body": "Aimed at assisting underprivileged families by providing medications, covering surgical costs, and improving hospital facilities to ensure access to quality healthcare",
+   
+    "initiat 5 title": "Saqiya",
+    "initiat 5 body": "Provides clean drinking water to communities in need through well drilling and installation of water coolers, ensuring access to safe water",
+
+    "initiat 6 title": "We Have A Dream",
+    "initiat 6 body": "Focuses on school rehabilitation and providing school bags to students in underprivileged areas to promote education and improve school environments",
+
+    "work 1 title": "Cultural and Artistic Events",
+    "work 1 body": "We organize cultural and artistic events to revitalize community cultural roles and encourage participation in creative activities that strengthen social bonds",
+
+    "work 2 title": "Volunteer Work in Crises",
+    "work 2 body": "We train volunteers to respond to crises, whether wars or natural disasters, to provide immediate assistance to affected communities and contribute to recovery and stabilization efforts.",
+
+    "work 3 title": "Activity Documentation",
+    "work 3 body": "To ensure transparency and build trust within our community, we document our activities through photos and videos available across our various platforms. Follow us to stay updated on our latest projects and efforts in the field.",
+
+    "acc": "Our Accounts",
+    "facebook 1": "Main Branch",
+    "facebook 2": "Ed Dueim Branch",
+    "facebook 3": "Kosti Branch",
+    "facebook 4": "Red Sea state Barnch",
+    "facebook 5": "Rabak Branch",
+    "facebook 6": "Gwana Amal Rest",
+    "whatsapp": "Whatsapp Channel",
+    "telegram": "Telegram Channel",
+
+    "join title": "How to join us?",
+    "join body": "We welcome anyone interested in charitable work and contributing to spreading positive values. You can join us by contacting us and selecting the department that aligns with your interests and expertise.",
+
+    "rights": "We're all Values, All Rights Reserved"
+
+}
